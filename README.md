@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @PascalStephan
-- 👀 I’m interested in ... Python, Webdesign, AI
-- 🌱 I’m currently learning ...HTML & CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋
+I'm Pascal Stephan and studying Chemistry at Uni Leipzig.
+- currently focused on Python
+  
 
 <!---
 PascalStephan/PascalStephan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
